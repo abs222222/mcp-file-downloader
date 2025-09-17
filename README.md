@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/abs222222-mcp-file-downloader-badge.png)](https://mseep.ai/app/abs222222-mcp-file-downloader)
+
 # MCP File Downloader 🚀
 
 A Model Context Protocol (MCP) server that enables Claude Desktop to download files from the web, with automatic browser fallback for JavaScript-heavy sites.
