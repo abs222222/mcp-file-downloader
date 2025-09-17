@@ -1,0 +1,13 @@
+{
+  "etf_downloads": {
+    "config_file": "C:\\Users\\adam_\\Downloads\\mcp-downloads-v2\\etf_config.js",
+    "destination": "C:\\Users\\adam_\\Downloads\\mcp-downloads-v2\\etfs\\",
+    "pattern": "Loop through config and download each ETF to destination",
+    "note": "Config contains URLs and filenames for all 17 ETFs"
+  },
+  "common_paths": {
+    "v2_system": "C:\\Users\\adam_\\Downloads\\mcp-downloads-v2\\",
+    "v1_system": "C:\\Users\\adam_\\Downloads\\mcp-downloads\\",
+    "default": "C:\\Users\\adam_\\Downloads\\mcp-downloads\\"
+  }
+}

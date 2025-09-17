@@ -1,0 +1,18 @@
+{
+  "name": "mcp-file-downloader",
+  "version": "1.0.0",
+  "description": "MCP server for downloading files from URLs",
+  "type": "module",
+  "main": "download-server.js",
+  "scripts": {
+    "start": "node download-server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "playwright": "^1.55.0",
+    "xlsx": "^0.18.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
